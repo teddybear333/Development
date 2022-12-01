@@ -48,7 +48,7 @@ export default function Gallery({
     return (
       <Card id="list-gallery">
         <h6>
-         Anime List ({animes.length} serries)
+         To Watch List ({animes.length} serries)
         </h6>
         <div className="gallery">
           {animes ? itemCards : null}
