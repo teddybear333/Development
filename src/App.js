@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect, useState } from 'react';
 import './App.css';
 
+// importing these too
 import ANIME, { GENRE, SEASON, EPISODE } from './constants';
 import Gallery from './Gallery';
 import ViewOptions from './ViewOptions';
