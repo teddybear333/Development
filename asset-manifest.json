@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/Development/static/css/main.073c9b0a.css",
-    "main.js": "/Development/static/js/main.84af6558.js",
-    "static/media/logo.svg": "/Development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Development/static/css/main.ae865540.css",
+    "main.js": "/Development/static/js/main.5f74860d.js",
+    "static/media/hunterxhunter.png": "/Development/static/media/hunterxhunter.6d457012db3e0c5fdeca.png",
+    "static/media/myhero.jpg": "/Development/static/media/myhero.44fa20640977c55c447a.jpg",
+    "static/media/tokyorevengers.jpg": "/Development/static/media/tokyorevengers.b754bcef8fef34388160.jpg",
+    "static/media/jjk.jpg": "/Development/static/media/jjk.6a4cb9b1c144c9abf816.jpg",
+    "static/media/assasination.jpg": "/Development/static/media/assasination.d01e302d60ddbc34dc9d.jpg",
+    "static/media/akame.jpg": "/Development/static/media/akame.647115508291baa5e279.jpg",
+    "static/media/kisshimnotme.jpg": "/Development/static/media/kisshimnotme.cbdb1bfe8021db312752.jpg",
+    "static/media/tokyoghoul.jpg": "/Development/static/media/tokyoghoul.a4f420ab8dc8a6a8d4e3.jpg",
+    "static/media/kotaro.jpg": "/Development/static/media/kotaro.4034c515d7655e334e9d.jpg",
+    "static/media/cyberpunk.jpg": "/Development/static/media/cyberpunk.66f24ebc613bcdf16f67.jpg",
+    "static/media/deathnote.jpg": "/Development/static/media/deathnote.70a0654b3483d5728a1b.jpg",
+    "static/media/fullmetal.jpg": "/Development/static/media/fullmetal.da28bdbdff043ed6bf24.jpg",
+    "static/media/cellsatwork.jpg": "/Development/static/media/cellsatwork.cf975ec7cc253ea37707.jpg",
+    "static/media/blood-c.jpg": "/Development/static/media/blood-c.5997b18b816a62ba7e25.jpg",
+    "static/media/devilman.jpg": "/Development/static/media/devilman.172e782d41c04e4df781.jpg",
     "index.html": "/Development/index.html",
-    "main.073c9b0a.css.map": "/Development/static/css/main.073c9b0a.css.map",
-    "main.84af6558.js.map": "/Development/static/js/main.84af6558.js.map"
+    "main.ae865540.css.map": "/Development/static/css/main.ae865540.css.map",
+    "main.5f74860d.js.map": "/Development/static/js/main.5f74860d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.84af6558.js"
+    "static/css/main.ae865540.css",
+    "static/js/main.5f74860d.js"
   ]
 }
