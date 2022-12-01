@@ -48,7 +48,7 @@ function App() {
   return (
     <div id="app">
       <header>
-        <h2> ✿ Welcome to my Anime Database ✿ </h2>
+        <h2> ✨ Welcome to Anime Base ✨ </h2>
       </header>
       <main>
         <div id="left-section">
