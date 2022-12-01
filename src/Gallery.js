@@ -53,7 +53,7 @@ export default function Gallery({
         <div className="gallery">
           {animes ? itemCards : null}
         </div>
-        <h8>Total Number of Episodes to Watch: {formatted}</h8>
+        <h8>Total Number of Episodes: {formatted}</h8>
       </Card>
     );
   }
