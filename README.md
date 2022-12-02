@@ -2,7 +2,7 @@
 
 ## Context & Background
 
-Anime Base is a simple "shopping-cart-like" application centered around a catalog of anime serries. This project originally started as an intent to get my friends (who like diverse anime styles) to watch some of my favorite anime serries that may also suite their genre. 
+Anime Base is a simple "shopping-cart-like" application centered around a catalog of anime serries. This project originally stemmed from an idea to get my friends (who like diverse anime styles) to watch some of my favorite anime serries that may also suite their genre. 
 
 All anime data and information in this repository are inspired by and pulled from [MyAnimeList](https://myanimelist.net/) and [AniList](https://anilist.co/search/anime). 
 
@@ -89,4 +89,4 @@ Click [Here](https://github.com/teddybear333/Development) to see the source code
 
 ## Afterthoughts 
 
-This project was a basic React.js development. While the scope of the applications current functionalities, design, and content are limited, the structure of this project could be improved and expaned to more developed anime database in future iterations. 
+This project was a basic React.js development. While the scope of the application's current functionalities, design, and content are limited, the structure of this project could be improved and expaned to more developed anime database in future iterations. 
