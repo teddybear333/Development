@@ -89,5 +89,5 @@ Click [Here](https://github.com/teddybear333/Development) to see the source code
 
 ## Afterthoughts 
 
-This project was a concise and descriptive React.js development. While the scope of the applications current functionalities, design, and content are limited, the structure of this project could be expaned in future iterations. 
+This project was a concise and descriptive React.js development. While the scope of the applications current functionalities, design, and content are limited, the structure of this project could be expaned to more developed anime database in future iterations. 
 
